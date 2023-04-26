@@ -45,7 +45,7 @@ html {
 body {
   font-family: roboto;
   background-color: #121212;
-  font-family: lucida Console;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 mark.red{
